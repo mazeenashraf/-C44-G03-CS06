@@ -217,7 +217,7 @@ namespace session6
             #endregion
 
 
-
+            #region nullable value  type
             #region nullable value  type
             //int? x = null;
             //int y;
@@ -229,6 +229,8 @@ namespace session6
             //}
             //Console.WriteLine(y);
             #endregion
+            #endregion
+            
 
             #region boxing and unboxing
             //int x = 10;
