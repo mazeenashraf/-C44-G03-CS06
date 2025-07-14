@@ -159,6 +159,9 @@ namespace session6
             
 
             //assignment 
+           
+
+            #region q6
             #region q6
             int[] myarr = { 10, 20, 15, 30 };
             minmaxarr(myarr, out int min, out int max);
@@ -167,8 +170,7 @@ namespace session6
 
 
             #endregion
-
-
+            #endregion
             #region q4,q5
             #region q4 , q5 
             //4 
