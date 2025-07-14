@@ -168,6 +168,8 @@ namespace session6
 
             #endregion
 
+
+            #region q4,q5
             #region q4 , q5 
             //4 
             //5 
@@ -184,7 +186,7 @@ namespace session6
             //}
 
             #endregion
-
+            #endregion
             #region q1 ,q2 q3 ,q
             #region q1 , q2 ,q3
             //q1
