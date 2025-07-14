@@ -156,7 +156,12 @@ namespace session6
         static void Main(string[] args)
         {
 
+            
+
             //assignment 
+           
+
+            #region q6
             #region q6
             int[] myarr = { 10, 20, 15, 30 };
             minmaxarr(myarr, out int min, out int max);
@@ -165,7 +170,8 @@ namespace session6
 
 
             #endregion
-
+            #endregion
+            #region q4,q5
             #region q4 , q5 
             //4 
             //5 
@@ -182,8 +188,8 @@ namespace session6
             //}
 
             #endregion
-
-
+            #endregion
+            #region q1 ,q2 q3 ,q
             #region q1 , q2 ,q3
             //q1
             //int x = 7;
@@ -208,8 +214,10 @@ namespace session6
             //Console.WriteLine(sub);
 
             #endregion
+            #endregion
 
 
+            #region nullable value  type
             #region nullable value  type
             //int? x = null;
             //int y;
@@ -221,7 +229,9 @@ namespace session6
             //}
             //Console.WriteLine(y);
             #endregion
+            #endregion
 
+            #region Boxing And Unboxing
             #region boxing and unboxing
             //int x = 10;
             //object obj = x; // boxing
@@ -233,7 +243,9 @@ namespace session6
             //Console.WriteLine(x);
 
             #endregion
+            #endregion
 
+            #region functions
             #region functions
             //printshape(22 , "%$");
             //int x = 10, y = 20;
@@ -264,6 +276,8 @@ namespace session6
             //Console.WriteLine($"sum of array => {result}");
 
             #endregion
+            #endregion
+
 
         }
     }
