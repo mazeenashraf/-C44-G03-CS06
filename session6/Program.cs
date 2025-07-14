@@ -245,7 +245,7 @@ namespace session6
             #endregion
             #endregion
 
-
+            #region functions
             #region functions
             //printshape(22 , "%$");
             //int x = 10, y = 20;
@@ -276,6 +276,8 @@ namespace session6
             //Console.WriteLine($"sum of array => {result}");
 
             #endregion
+            #endregion
+
 
         }
     }
