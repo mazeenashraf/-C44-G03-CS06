@@ -185,7 +185,7 @@ namespace session6
 
             #endregion
 
-
+            #region q1 ,q2 q3 ,q
             #region q1 , q2 ,q3
             //q1
             //int x = 7;
@@ -210,6 +210,8 @@ namespace session6
             //Console.WriteLine(sub);
 
             #endregion
+            #endregion
+
 
 
             #region nullable value  type
