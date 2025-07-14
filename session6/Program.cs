@@ -156,6 +156,8 @@ namespace session6
         static void Main(string[] args)
         {
 
+            
+
             //assignment 
             #region q6
             int[] myarr = { 10, 20, 15, 30 };
